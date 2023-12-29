@@ -8,6 +8,7 @@ ClientConnectedMessage
 ClientDisconnectedMessage
 CreateObjectMessage
 DestroyObjectMessage
+DisconnectReasonMessage
 MessageMetadata
 NamedMessage
 NetworkVariableDeltaMessage
@@ -18,3 +19,6 @@ SceneEventMessage
 ServerLogMessage
 TimeSyncMessage
 UnnamedMessage
+
+
+ ????

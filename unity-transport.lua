@@ -14,7 +14,7 @@ local msgTypeNames = {
   "ClientDisconnectedMessage",
   "CreateObjectMessage",
   "DestroyObjectMessage",
-  "MessageMetadata",
+  -- "DisconnectReasonMessage",
   "NamedMessage",
   "NetworkVariableDeltaMessage",
   "ParentSyncMessage",
